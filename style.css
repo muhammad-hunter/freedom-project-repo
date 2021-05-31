@@ -1,21 +1,7 @@
-<<<<<<< HEAD
-.container {
-  background-color: #455058
-}
 
 
-.container-fluid {
-  background-color: #455058 ;
-  color: white;
-  border :  1px dashed black
-}
-body {
-  background-color: #A996A3 ;
-   
-}
-=======
 div {
-  border:1px dashed white;
+  border:1px dashed black;
 }
 
 .container-fluid {
@@ -26,4 +12,4 @@ div {
 body {
   font:white;
   font-family: Arial, Helvetica, sans-serif;
->>>>>>> 557c0a5410c9ed722fca3c2eb01f2b3b98159f36
+}
