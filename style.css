@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
   background-color: #455058
 }
@@ -12,3 +13,17 @@ body {
   background-color: #A996A3 ;
    
 }
+=======
+div {
+  border:1px dashed white;
+}
+
+.container-fluid {
+  background-color:black;
+  color:white;
+}
+
+body {
+  font:white;
+  font-family: Arial, Helvetica, sans-serif;
+>>>>>>> 557c0a5410c9ed722fca3c2eb01f2b3b98159f36
