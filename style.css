@@ -1,0 +1,12 @@
+div {
+  border:1px dashed white;
+}
+
+.container-fluid {
+  background-color:black;
+  color:white;
+}
+
+body {
+  font:white;
+  font-family: Arial, Helvetica, sans-serif;
