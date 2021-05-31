@@ -1,0 +1,14 @@
+.container {
+  background-color: #455058
+}
+
+
+.container-fluid {
+  background-color: #455058 ;
+  color: white;
+  border :  1px dashed black
+}
+body {
+  background-color: #A996A3 ;
+   
+}
